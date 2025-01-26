@@ -45,6 +45,21 @@
         "Graphic"
       ],
       "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/File-SVG.svg"
+    },
+    {
+      "name": "Pie-chart",
+      "key": "03bffae9c37eed6775b5315cafbe8fcdbc5daf92",
+      "tags": [
+        "Pie chart",
+        "Chart",
+        "Data",
+        "Statistics",
+        "Visualization",
+        "Slices",
+        "Segments",
+        "Analysis"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Pie-chart.svg"
     }
   ]
 }
