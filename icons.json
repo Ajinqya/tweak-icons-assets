@@ -11,6 +11,90 @@
         "Float"
       ],
       "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Balloon.svg"
+    },
+    {
+      "name": "Campfire",
+      "key": "75c79286c21cbe6bb2fd713b7140cf52a5a697b7",
+      "tags": [
+        "Campfire",
+        "Fire",
+        "Camping",
+        "Outdoors",
+        "Bonfire"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Campfire.svg"
+    },
+    {
+      "name": "Candle",
+      "key": "db4407c7d0563484f064c0fdca496f077874d048",
+      "tags": [
+        "Candle",
+        "Light",
+        "Flame",
+        "Wax",
+        "Celebration"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Candle.svg"
+    },
+    {
+      "name": "Confetti",
+      "key": "9b196b1605cd873c7b59921db03bb1a8971fbc35",
+      "tags": [
+        "Confetti",
+        "Party",
+        "Celebration",
+        "Festive",
+        "Paper"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Confetti.svg"
+    },
+    {
+      "name": "Disco-ball",
+      "key": "02a7f660bc720868babdbe1427b0075f8cf3a049",
+      "tags": [
+        "Disco",
+        "Ball",
+        "Party",
+        "Dance",
+        "Celebration"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Disco-ball.svg"
+    },
+    {
+      "name": "Gift-box",
+      "key": "692fc448b7f85b76a3416b580c9d9c853a879e36",
+      "tags": [
+        "Gift",
+        "Box",
+        "Present",
+        "Wrap",
+        "Celebration"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Gift-box.svg"
+    },
+    {
+      "name": "Graduation-hat",
+      "key": "52bd128fe326f4412c6347dd2f309f4232a5180f",
+      "tags": [
+        "Graduation",
+        "Hat",
+        "Cap",
+        "Ceremony",
+        "Education"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Graduation-hat.svg"
+    },
+    {
+      "name": "Whistle",
+      "key": "abe6d5a1173c3461492ba845e151ec8622b3f43c",
+      "tags": [
+        "Whistle",
+        "Sound",
+        "Celebration",
+        "Sport",
+        "Noise"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Whistle.svg"
     }
   ],
   "totalIcons": 8
