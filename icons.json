@@ -11,6 +11,18 @@
         "Float"
       ],
       "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Balloon.svg"
+    },
+    {
+      "name": "Campfire",
+      "key": "75c79286c21cbe6bb2fd713b7140cf52a5a697b7",
+      "tags": [
+        "Campfire",
+        "Fire",
+        "Camping",
+        "Outdoors",
+        "Bonfire"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Campfire.svg"
     }
   ],
   "totalIcons": 8
