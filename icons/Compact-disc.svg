@@ -1,1 +1,5 @@
-PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIgc3Ryb2tlPSIjMTgxNjFFIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIHN0cm9rZT0iIzE4MTYxRSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CjxwYXRoIGQ9Ik02IDEyQzYgOC42ODYyOSA4LjY4NjI5IDYgMTIgNiIgc3Ryb2tlPSIjMTgxNjFFIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPC9zdmc+Cg==
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="12" cy="12" r="2" stroke="#18161E" stroke-linecap="round"/>
+<circle cx="12" cy="12" r="10" stroke="#18161E" stroke-linecap="round"/>
+<path d="M6 12C6 8.68629 8.68629 6 12 6" stroke="#18161E" stroke-linecap="round"/>
+</svg>
