@@ -1,0 +1,50 @@
+{
+  "icons": [
+    {
+      "name": "Karaorke-mic",
+      "key": "6a3b7aafb67008c7210ccfd066c04752d6f30e93",
+      "tags": [
+        "Microphone",
+        "Sing",
+        "Music",
+        "Sound",
+        "Entertainment"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Karaorke-mic.svg"
+    },
+    {
+      "name": "Compact-disc",
+      "key": "6131e69b9f8caba1c09bd0a11d9e99a85c490a7a",
+      "tags": [
+        "CD",
+        "Music",
+        "Media",
+        "Storage",
+        "Digital"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Compact-disc.svg"
+    },
+    {
+      "name": "Webcam",
+      "key": "f6cee26356c0766792264ef17f3f1cca65a7078f",
+      "tags": [
+        "Camera",
+        "Video",
+        "Online",
+        "Stream",
+        "Device"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Webcam.svg"
+    },
+    {
+      "name": "File-SVG",
+      "key": "7e1abab0d6f268fdb1fd66a5bcf26d667a08801a",
+      "tags": [
+        "Scalable",
+        "Vector",
+        "Graphic"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/File-SVG.svg"
+    }
+  ]
+}
