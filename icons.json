@@ -1,65 +1,941 @@
 {
   "icons": [
     {
-      "name": "Karaorke-mic",
-      "key": "6a3b7aafb67008c7210ccfd066c04752d6f30e93",
+      "name": "Adobe",
+      "key": "285b4f3e1bfaef5d5004c2e7c27a5c70836fedb1",
       "tags": [
-        "Microphone",
-        "Sing",
-        "Music",
-        "Sound",
+        "Software",
+        "Creative",
+        "Design",
+        "Photoshop"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Adobe.svg"
+    },
+    {
+      "name": "Airbnb",
+      "key": "523c6018931af84f5158d11cc6e33df11406a953",
+      "tags": [
+        "Travel",
+        "Rental",
+        "Accommodation",
+        "Stay"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Airbnb.svg"
+    },
+    {
+      "name": "Amazon",
+      "key": "eb3cfcb7fda0ecbd5e9a1ee98a04d71eba3c42e9",
+      "tags": [
+        "Shopping",
+        "Ecommerce",
+        "Retail",
+        "Online"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Amazon.svg"
+    },
+    {
+      "name": "Android",
+      "key": "add6d3c086415bc802ea6c9025cf476461a12d4a",
+      "tags": [
+        "Mobile",
+        "OS",
+        "Smartphone",
+        "Google"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Android.svg"
+    },
+    {
+      "name": "Apple",
+      "key": "62614636bfc61d06c374f7e957f1b5b816534a98",
+      "tags": [
+        "Technology",
+        "iPhone",
+        "Mac",
+        "iOS"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Apple.svg"
+    },
+    {
+      "name": "Appstore",
+      "key": "dcb0e32ec293df837367a59dea899ecb73992c36",
+      "tags": [
+        "Apps",
+        "Store",
+        "Download",
+        "Mobile"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Appstore.svg"
+    },
+    {
+      "name": "Arc",
+      "key": "529d0f2b8b5919e26a25678f8882217dd5e5fb33",
+      "tags": [
+        "Browser",
+        "Internet",
+        "Surfing",
+        "Technology"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Arc.svg"
+    },
+    {
+      "name": "Asus",
+      "key": "5b1e98dbaab86f335aa69dd8985401252e18838a",
+      "tags": [
+        "Technology",
+        "Hardware",
+        "Laptop",
+        "Computer"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Asus.svg"
+    },
+    {
+      "name": "Atlassian",
+      "key": "c66017112bf201c8239d56585918a8336972ec50",
+      "tags": [
+        "Software",
+        "Collaboration",
+        "Productivity",
+        "Tools"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Atlassian.svg"
+    },
+    {
+      "name": "Behance",
+      "key": "788b10edcab5475d251ea6577f16a88a71fafacb",
+      "tags": [
+        "Portfolio",
+        "Creative",
+        "Design",
+        "Art"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Behance.svg"
+    },
+    {
+      "name": "Booking.com",
+      "key": "3dda08e8078af56e6f71b8c810ef5113fe20229d",
+      "tags": [
+        "Travel",
+        "Accommodation",
+        "Hotels",
+        "Booking"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Booking.com.svg"
+    },
+    {
+      "name": "Bookmyshow",
+      "key": "a7b961625cbedfa5cdb2c33da7e485858d777312",
+      "tags": [
+        "Tickets",
+        "Events",
+        "Movies",
         "Entertainment"
       ],
-      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Karaorke-mic.svg"
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Bookmyshow.svg"
     },
     {
-      "name": "Compact-disc",
-      "key": "6131e69b9f8caba1c09bd0a11d9e99a85c490a7a",
+      "name": "Bumble",
+      "key": "562d7a59bdb54b82ca06d392c9ec4fa473e4ebef",
       "tags": [
-        "CD",
-        "Music",
-        "Media",
+        "Dating",
+        "App",
+        "Meet",
+        "Social"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Bumble.svg"
+    },
+    {
+      "name": "Chrome",
+      "key": "5c6feb059b9f92ef855022b9b78a1ee7517af66f",
+      "tags": [
+        "Browser",
+        "Internet",
+        "Google",
+        "Surfing"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Chrome.svg"
+    },
+    {
+      "name": "Cred",
+      "key": "ed06d6bc761fc933ce4ac115a49a5a14275f499e",
+      "tags": [
+        "Finance",
+        "Credit",
+        "Cards",
+        "Rewards"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Cred.svg"
+    },
+    {
+      "name": "Discord",
+      "key": "4ad452b54a1d20bfb8d184d51b835f6c47d7a3dd",
+      "tags": [
+        "Chat",
+        "Community",
+        "Gaming",
+        "Voice"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Discord.svg"
+    },
+    {
+      "name": "Dolby-on",
+      "key": "4618ae83b4222be50649441de7ea351a86f71837",
+      "tags": [
+        "Audio",
+        "Sound",
+        "Recording",
+        "Music"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Dolby-on.svg"
+    },
+    {
+      "name": "Dominos",
+      "key": "75348e7a91fb1231cd5a65be609e1c61f774becd",
+      "tags": [
+        "Pizza",
+        "Food",
+        "Delivery",
+        "Restaurant"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Dominos.svg"
+    },
+    {
+      "name": "Doordash",
+      "key": "5a0d0bc05c15ab6cdd75222bcb14658e280db3bc",
+      "tags": [
+        "Food",
+        "Delivery",
+        "Restaurant",
+        "Service"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Doordash.svg"
+    },
+    {
+      "name": "Dribbble",
+      "key": "636a2c7c803a016d4c111e85b4c845bdd701fad8",
+      "tags": [
+        "Design",
+        "Portfolio",
+        "Art",
+        "Creative"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Dribbble.svg"
+    },
+    {
+      "name": "Dropbox",
+      "key": "66f826f694500026b0872e02a2c01a99b603e8e8",
+      "tags": [
+        "Cloud",
         "Storage",
-        "Digital"
+        "File",
+        "Sync"
       ],
-      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Compact-disc.svg"
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Dropbox.svg"
     },
     {
-      "name": "Webcam",
-      "key": "f6cee26356c0766792264ef17f3f1cca65a7078f",
+      "name": "EAsports",
+      "key": "e0e6232dcaa98dda9978047de22934644d85b03b",
       "tags": [
-        "Camera",
+        "Gaming",
+        "Sports",
+        "Video Games",
+        "EA"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/EAsports.svg"
+    },
+    {
+      "name": "Facebook",
+      "key": "14b37be762dcd0e88b6ab6dccb6fa22412c83d6c",
+      "tags": [
+        "Social",
+        "Media",
+        "Networking",
+        "Connect"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Facebook.svg"
+    },
+    {
+      "name": "Figma",
+      "key": "63ef7a195d483c28f080ea95912348d0cf78d4c8",
+      "tags": [
+        "Design",
+        "UI",
+        "Collaboration",
+        "Prototype"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Figma.svg"
+    },
+    {
+      "name": "Firefox",
+      "key": "ab54661a6131b0729f30c2dc03f5a37cdaf6be8c",
+      "tags": [
+        "Browser",
+        "Internet",
+        "Surfing",
+        "Mozilla"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Firefox.svg"
+    },
+    {
+      "name": "Fold-money",
+      "key": "b1ad781fbdb4ae70001c781c8f97b8e792a9d470",
+      "tags": [
+        "Finance",
+        "Currency",
+        "Money"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Fold-money.svg"
+    },
+    {
+      "name": "Framer",
+      "key": "e038739b8cecc55f3f751b5e2be3f9b67d30593c",
+      "tags": [
+        "Design",
+        "Prototype",
+        "UI",
+        "Interaction"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Framer.svg"
+    },
+    {
+      "name": "Github",
+      "key": "6a945ee6c7484a9a375742c39a5d05dc5ce32446",
+      "tags": [
+        "Code",
+        "Repository",
+        "Version Control",
+        "Software"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Github.svg"
+    },
+    {
+      "name": "Gitlab",
+      "key": "0a669fed7b8697172c0f3979a51b81b98d3123ed",
+      "tags": [
+        "Code",
+        "Repository",
+        "Version Control",
+        "Software"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Gitlab.svg"
+    },
+    {
+      "name": "Gmail",
+      "key": "53af3631e109582de9e662325ae579d556240f62",
+      "tags": [
+        "Email",
+        "Google",
+        "Communication",
+        "Inbox"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Gmail.svg"
+    },
+    {
+      "name": "Godaddy",
+      "key": "e30d415d28a32bce75cab41a97900f61fc8b458f",
+      "tags": [
+        "Domain",
+        "Hosting",
+        "Website",
+        "Internet"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Godaddy.svg"
+    },
+    {
+      "name": "Google",
+      "key": "10f44ccd65d99585fc37f6578a785b66c66762d1",
+      "tags": [
+        "Search",
+        "Internet",
+        "Technology",
+        "Online"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Google.svg"
+    },
+    {
+      "name": "Google-calendar",
+      "key": "13ff1a4a56cfd113d5fa7bdae7e480e487a176af",
+      "tags": [
+        "Calendar",
+        "Schedule",
+        "Events",
+        "Google"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Google-calendar.svg"
+    },
+    {
+      "name": "Google-drive",
+      "key": "69140907290cf1d7cdf51e5feba3b934fd4e2d24",
+      "tags": [
+        "Cloud",
+        "Storage",
+        "Files",
+        "Google"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Google-drive.svg"
+    },
+    {
+      "name": "Google-maps",
+      "key": "53c08d83da6362c6b3f0d1b7010da3fdd332414a",
+      "tags": [
+        "Maps",
+        "Navigation",
+        "Location",
+        "Google"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Google-maps.svg"
+    },
+    {
+      "name": "Google-meet",
+      "key": "971bb8aa74951554e7d422eeb3033e9fa9d331e3",
+      "tags": [
         "Video",
+        "Conferencing",
+        "Meetings",
+        "Google"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Google-meet.svg"
+    },
+    {
+      "name": "Google-pay",
+      "key": "06c79a392826766175f553fc789e9679fe632cfd",
+      "tags": [
+        "Payment",
+        "Wallet",
+        "Transactions",
+        "Google"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Google-pay.svg"
+    },
+    {
+      "name": "Google-photos",
+      "key": "38bc7627b34ca648bb2ae19f2628f91ea2bd334e",
+      "tags": [
+        "Photos",
+        "Images",
+        "Cloud",
+        "Google"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Google-photos.svg"
+    },
+    {
+      "name": "Guitar Tuna",
+      "key": "4add4b3ee0889fba4c4dd9049656144a528af5b5",
+      "tags": [
+        "Music",
+        "Tuning",
+        "Guitar",
+        "App"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Guitar Tuna.svg"
+    },
+    {
+      "name": "Hevy",
+      "key": "931ee0717d1998ef2abecc63573463c26b036cfc",
+      "tags": [
+        "Gym",
+        "Strong",
+        "Training"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Hevy.svg"
+    },
+    {
+      "name": "Instagram",
+      "key": "445229b44d3aef4257537cb538ab320781e16410",
+      "tags": [
+        "Social Media",
+        "Photos",
+        "Sharing",
+        "Stories"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Instagram.svg"
+    },
+    {
+      "name": "LG",
+      "key": "1e5d4e4817b20e160cae3918ed439ed8dafc2e6d",
+      "tags": [
+        "Electronics",
+        "Appliances",
+        "Technology",
+        "South Korea"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/LG.svg"
+    },
+    {
+      "name": "LinkedIn",
+      "key": "e7a33cca0f75a60fd1b885a2a6f5a43287e43339",
+      "tags": [
+        "Professional Network",
+        "Business",
+        "Careers",
+        "Social Media"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/LinkedIn.svg"
+    },
+    {
+      "name": "Logitech",
+      "key": "62aec78c3a737c8d6c435c07f6b1e1e7be9b2215",
+      "tags": [
+        "Peripherals",
+        "Technology",
+        "Computer",
+        "Accessories"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Logitech.svg"
+    },
+    {
+      "name": "Lottiefiles",
+      "key": "04c28d02f2b157616b6953f29b51bd3d112f032f",
+      "tags": [
+        "Animation",
+        "Files",
+        "Web",
+        "Design"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Lottiefiles.svg"
+    },
+    {
+      "name": "Louis-vuitton",
+      "key": "bfdba6731e9d93378e01e13462a70c049e635221",
+      "tags": [
+        "Fashion",
+        "Luxury",
+        "Bags",
+        "Accessories"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Louis-vuitton.svg"
+    },
+    {
+      "name": "Mastercard",
+      "key": "fbe7a6e8b18b7d30515ceeb92639b990e847a2d3",
+      "tags": [
+        "Payment",
+        "Credit Card",
+        "Transactions",
+        "Financial"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Mastercard.svg"
+    },
+    {
+      "name": "McDonalds",
+      "key": "7eb06297dfa33ff4bfb196e4c30e49fe6fbb7c4a",
+      "tags": [
+        "Fast Food",
+        "Restaurant",
+        "Hamburgers",
+        "Fries"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/McDonalds.svg"
+    },
+    {
+      "name": "Medium",
+      "key": "ba1829f8f0d773f641c0aa37e016b5845ff86085",
+      "tags": [
+        "Publishing",
+        "Articles",
+        "Blogging",
+        "Writing"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Medium.svg"
+    },
+    {
+      "name": "Messenger",
+      "key": "7315a287918044e9edd69defd224468e365a8c47",
+      "tags": [
+        "Chat",
+        "Messaging",
+        "Communication",
+        "Facebook"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Messenger.svg"
+    },
+    {
+      "name": "Meta",
+      "key": "2e9d633d23f96e96917eb9423e511556d71c6b9d",
+      "tags": [
+        "Social Media",
+        "Virtual Reality",
+        "Facebook",
+        "Technology"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Meta.svg"
+    },
+    {
+      "name": "Microsoft",
+      "key": "ded4cc099231ca52bab4f2137cee477ab7a49c39",
+      "tags": [
+        "Software",
+        "Technology",
+        "Windows",
+        "Office"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Microsoft.svg"
+    },
+    {
+      "name": "Mobbin",
+      "key": "e97ce5a697cd0ef363947bfe3fd5660822fc2894",
+      "tags": [
+        "Design",
+        "UI",
+        "Mobile",
+        "App"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Mobbin.svg"
+    },
+    {
+      "name": "Netflix",
+      "key": "2a65241000dff3aaca377f2081cca03b9d78ccf1",
+      "tags": [
+        "Streaming",
+        "Movies",
+        "TV Shows",
+        "Entertainment"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Netflix.svg"
+    },
+    {
+      "name": "Notion",
+      "key": "aaf794f56e9bb4ed85cdab48fc2154e596610a0f",
+      "tags": [
+        "Productivity",
+        "Notes",
+        "Collaboration",
+        "Workspace"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Notion.svg"
+    },
+    {
+      "name": "OpenAI",
+      "key": "250951f3b431c7240758e9c3deeb201d66755a92",
+      "tags": [
+        "Artificial Intelligence",
+        "Research",
+        "Technology",
+        "Machine Learning"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/OpenAI.svg"
+    },
+    {
+      "name": "Outlook",
+      "key": "a099be10655b3d189171255855996ebad7dd7529",
+      "tags": [
+        "Email",
+        "Microsoft",
+        "Communication",
+        "Inbox"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Outlook.svg"
+    },
+    {
+      "name": "Paypal",
+      "key": "0d3f4804126c69e755de4ee2e2c78f9e148a8778",
+      "tags": [
+        "Payment",
         "Online",
-        "Stream",
-        "Device"
+        "Transactions",
+        "Financial"
       ],
-      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Webcam.svg"
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Paypal.svg"
     },
     {
-      "name": "File-SVG",
-      "key": "7e1abab0d6f268fdb1fd66a5bcf26d667a08801a",
+      "name": "Perplexity",
+      "key": "d1771a655d4e5af70266e7b25f21e898e91140f1",
       "tags": [
-        "Scalable",
-        "Vector",
-        "Graphic"
+        ""
       ],
-      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/File-SVG.svg"
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Perplexity.svg"
     },
     {
-      "name": "Pie-chart",
-      "key": "03bffae9c37eed6775b5315cafbe8fcdbc5daf92",
+      "name": "Phone Pe",
+      "key": "9517d05fbad9f89e388b5c7c00575932a73f1dd5",
       "tags": [
-        "Pie chart",
-        "Chart",
-        "Data",
-        "Statistics",
-        "Visualization",
-        "Slices",
-        "Segments",
-        "Analysis"
+        "Payment",
+        "Mobile",
+        "Transactions",
+        "India"
       ],
-      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Pie-chart.svg"
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Phone Pe.svg"
+    },
+    {
+      "name": "Pinterest",
+      "key": "f55d84fe62126b770057149abf629b55b16a2706",
+      "tags": [
+        "Social Media",
+        "Pins",
+        "Images",
+        "Inspiration"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Pinterest.svg"
+    },
+    {
+      "name": "Playstation",
+      "key": "322b7a8c86ee42a6d0a4adb0dedd0359069eb65d",
+      "tags": [
+        "Gaming",
+        "Console",
+        "Sony",
+        "Video Games"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Playstation.svg"
+    },
+    {
+      "name": "Playstore",
+      "key": "4b4ae0a2e786d4fca2336d634ea82df4c5096fe7",
+      "tags": [
+        "Apps",
+        "Google",
+        "Android",
+        "Store"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Playstore.svg"
+    },
+    {
+      "name": "Protopie",
+      "key": "f28d6d8b3053e2dcd9b933afefa0ac2ec52dabbf",
+      "tags": [
+        "Design",
+        "Prototyping",
+        "Interaction",
+        "Tool"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Protopie.svg"
+    },
+    {
+      "name": "Reddit",
+      "key": "3cd51d8966515b36d2c0c0534a8afb341d419fd7",
+      "tags": [
+        "Community",
+        "News",
+        "Discussion",
+        "Forum"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Reddit.svg"
+    },
+    {
+      "name": "Rive",
+      "key": "11ddcc215cf0d47538a1c77c2d776e6067522f51",
+      "tags": [
+        ""
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Rive.svg"
+    },
+    {
+      "name": "Rockstar-games",
+      "key": "772069e391b471fef1138ddfe08681c7451bcf4e",
+      "tags": [
+        "Gaming",
+        "Publisher",
+        "Grand Theft Auto",
+        "Red Dead Redemption"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Rockstar-games.svg"
+    },
+    {
+      "name": "Slack",
+      "key": "811e959a2b5152cddc96a28ba0c5430b627681d2",
+      "tags": [
+        "Communication",
+        "Collaboration",
+        "Messaging",
+        "Team"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Slack.svg"
+    },
+    {
+      "name": "Snapchat",
+      "key": "ddd31b2ab182f2a29051eba0529420fae8127ba9",
+      "tags": [
+        "Social Media",
+        "Messaging",
+        "Stories",
+        "Filters"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Snapchat.svg"
+    },
+    {
+      "name": "Soundcloud",
+      "key": "8d1e4db12f2805a256a9a590d8995d3d86803fc8",
+      "tags": [
+        "Music",
+        "Streaming",
+        "Audio",
+        "Tracks"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Soundcloud.svg"
+    },
+    {
+      "name": "Spotify",
+      "key": "9a8a66e5a36e0dcab46430b61d3caf925a590b86",
+      "tags": [
+        "Music",
+        "Streaming",
+        "Audio",
+        "Playlist"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Spotify.svg"
+    },
+    {
+      "name": "Swiggy",
+      "key": "424291c9470d93df78ae71c97a7376e1558d6973",
+      "tags": [
+        "Food Delivery",
+        "Restaurant",
+        "India",
+        "App"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Swiggy.svg"
+    },
+    {
+      "name": "Telegram",
+      "key": "328c6b037e37e9e8d5955e7fea8921fa988b6fe7",
+      "tags": [
+        "Messaging",
+        "Chat",
+        "Communication",
+        "App"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Telegram.svg"
+    },
+    {
+      "name": "Tik-tok",
+      "key": "c78012702178cbf3a00d65afeabd3138f12e04b2",
+      "tags": [
+        "Social Media",
+        "Videos",
+        "Entertainment",
+        "App"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Tik-tok.svg"
+    },
+    {
+      "name": "Tinder",
+      "key": "afce470cd504e231a7b6a8be12e5c7b2834689e9",
+      "tags": [
+        "Dating",
+        "App",
+        "Relationships",
+        "Swipe"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Tinder.svg"
+    },
+    {
+      "name": "Toyota",
+      "key": "a9ce699bec219001f3a049df03301612030eb492",
+      "tags": [
+        "Automotive",
+        "Cars",
+        "Vehicles",
+        "Japan"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Toyota.svg"
+    },
+    {
+      "name": "Tripadvisor",
+      "key": "5621bbf5d364ddb90113b9825ce4c648069db76c",
+      "tags": [
+        "Travel",
+        "Reviews",
+        "Recommendations",
+        "Hotels"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Tripadvisor.svg"
+    },
+    {
+      "name": "Twitch",
+      "key": "5f83011834626042a94d6c6168b3bbaaf0abf24a",
+      "tags": [
+        "Gaming",
+        "Livestreaming",
+        "Esports",
+        "Community"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Twitch.svg"
+    },
+    {
+      "name": "Twitter",
+      "key": "0925030a02f0b867b11e77bf76a7aa03ef3a20c5",
+      "tags": [
+        "Social Media",
+        "Microblogging",
+        "Tweets",
+        "Networking"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Twitter.svg"
+    },
+    {
+      "name": "Unity",
+      "key": "608f3c4b8063270b7d38ee5bc16f171fd333270e",
+      "tags": [
+        "Game Development",
+        "Engine",
+        "Software",
+        "3D"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Unity.svg"
+    },
+    {
+      "name": "Upstox",
+      "key": "7acabf53a506c6fa176c2f258864ef227e4a5f5e",
+      "tags": [
+        "Finance",
+        "Trading",
+        "Stocks",
+        "India"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Upstox.svg"
+    },
+    {
+      "name": "Webflow",
+      "key": "5dd4ec9331d584457cd409189b4325a47bb34912",
+      "tags": [
+        "Design",
+        "Website",
+        "Development",
+        "Tool"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Webflow.svg"
+    },
+    {
+      "name": "Whatsapp",
+      "key": "84fb9789ac2183dcf30b5182228758f3f0a952f2",
+      "tags": [
+        "Messaging",
+        "Chat",
+        "Communication",
+        "Facebook"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Whatsapp.svg"
+    },
+    {
+      "name": "X.com",
+      "key": "8db42c593ac848621d7565352fd2a240b088619c",
+      "tags": [
+        "Financial",
+        "Transactions",
+        "Payment",
+        "Elon Musk"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/X.com.svg"
+    },
+    {
+      "name": "YouTube",
+      "key": "fa18a8548be6dfa0249eb8d5eaa886225a2b09cb",
+      "tags": [
+        "Video",
+        "Streaming",
+        "Entertainment",
+        "Google"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/YouTube.svg"
+    },
+    {
+      "name": "Zoom",
+      "key": "101d5eb45c4f2cb23220d52623f896548f164ea1",
+      "tags": [
+        "Video Conferencing",
+        "Meetings",
+        "Communication"
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Zoom.svg"
     }
   ]
 }
