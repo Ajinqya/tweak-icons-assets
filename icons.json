@@ -231,6 +231,14 @@
         "Device"
       ],
       "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/webcam.svg"
+    },
+    {
+      "name": "Rive",
+      "key": "11ddcc215cf0d47538a1c77c2d776e6067522f51",
+      "tags": [
+        ""
+      ],
+      "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/rive.svg"
     }
   ]
 }
