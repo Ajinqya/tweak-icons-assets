@@ -1,0 +1,125 @@
+{
+  "category": "Devices",
+  "icons": [
+    {
+      "name": "Camera",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Camera.svg"
+    },
+    {
+      "name": "Compact-disc",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Compact-disc.svg"
+    },
+    {
+      "name": "Earbuds",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Earbuds.svg"
+    },
+    {
+      "name": "Hard Drive",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Hard Drive.svg"
+    },
+    {
+      "name": "Headphones",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Headphones.svg"
+    },
+    {
+      "name": "Joystick",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Joystick.svg"
+    },
+    {
+      "name": "Karaorke-mic",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Karaorke-mic.svg"
+    },
+    {
+      "name": "Keyboard",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Keyboard.svg"
+    },
+    {
+      "name": "Keyboard_wireless",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Keyboard_wireless.svg"
+    },
+    {
+      "name": "Laptop",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Laptop.svg"
+    },
+    {
+      "name": "Monitor",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Monitor.svg"
+    },
+    {
+      "name": "Mouse",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Mouse.svg"
+    },
+    {
+      "name": "Phone",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Phone.svg"
+    },
+    {
+      "name": "Printer",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Printer.svg"
+    },
+    {
+      "name": "Radio",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Radio.svg"
+    },
+    {
+      "name": "Router",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Router.svg"
+    },
+    {
+      "name": "Speaker-device",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Speaker-device.svg"
+    },
+    {
+      "name": "Tablet",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Tablet.svg"
+    },
+    {
+      "name": "Webcam",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Webcam.svg"
+    },
+    {
+      "name": "Rive",
+      "description": "",
+      "hasVariants": false,
+      "svgPath": "Rive.svg"
+    }
+  ]
+}
