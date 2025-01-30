@@ -16,8 +16,8 @@
               "description": "Speech bubble, Circular, Chat, Message, Talk, Dialogue, Text, Communicate"
             },
             {
-              "name": "Speech-bubble_circular",
-              "svgPath": "Communication/Speech-bubble_circular.svg",
+              "name": "Speech-bubble_circular-filled",
+              "svgPath": "Communication/Speech-bubble_circular-filled.svg",
               "description": "Speech bubble, Circular, Chat, Message, Talk, Dialogue, Text, Communicate"
             }
           ]
@@ -35,8 +35,8 @@
               "description": "Speech bubble, Rectangular, Chat, Message, Talk, Dialogue, Text, Communicate"
             },
             {
-              "name": "Speech-bubble_rectangular",
-              "svgPath": "Communication/Speech-bubble_rectangular.svg",
+              "name": "Speech-bubble_rectangular-filled",
+              "svgPath": "Communication/Speech-bubble_rectangular-filled.svg",
               "description": "Speech bubble, Rectangular, Chat, Message, Talk, Dialogue, Text, Communicate"
             }
           ]
@@ -54,8 +54,8 @@
               "description": "Telephone, Phone, Call, Communication, Talk, Ring, Device"
             },
             {
-              "name": "Telephone",
-              "svgPath": "Communication/Telephone.svg",
+              "name": "Telephone-filled",
+              "svgPath": "Communication/Telephone-filled.svg",
               "description": "Telephone, Phone, Call, Communication, Talk, Ring, Device"
             }
           ]
@@ -73,8 +73,8 @@
               "description": "Telephone, Phone, Call, Communication, Cross, Cancel, Blocked, No Signal"
             },
             {
-              "name": "Telephone_cross",
-              "svgPath": "Communication/Telephone_cross.svg",
+              "name": "Telephone_cross-filled",
+              "svgPath": "Communication/Telephone_cross-filled.svg",
               "description": "Telephone, Phone, Call, Communication, Cross, Cancel, Blocked, No Signal"
             }
           ]
@@ -92,8 +92,8 @@
               "description": "Telephone, Phone, Call, Communication, Incoming, Receive, Answer"
             },
             {
-              "name": "Telephone_in",
-              "svgPath": "Communication/Telephone_in.svg",
+              "name": "Telephone_in-filled",
+              "svgPath": "Communication/Telephone_in-filled.svg",
               "description": "Telephone, Phone, Call, Communication, Incoming, Receive, Answer"
             }
           ]
@@ -111,8 +111,8 @@
               "description": "Telephone, Phone, Call, Communication, Outgoing, Send, Dial"
             },
             {
-              "name": "Telephone_out",
-              "svgPath": "Communication/Telephone_out.svg",
+              "name": "Telephone_out-filled",
+              "svgPath": "Communication/Telephone_out-filled.svg",
               "description": "Telephone, Phone, Call, Communication, Outgoing, Send, Dial"
             }
           ]
@@ -130,8 +130,8 @@
               "description": "Telephone, Phone, Call, Communication, Ringing, Incoming, Alert"
             },
             {
-              "name": "Telephone_ringing",
-              "svgPath": "Communication/Telephone_ringing.svg",
+              "name": "Telephone_ringing-filled",
+              "svgPath": "Communication/Telephone_ringing-filled.svg",
               "description": "Telephone, Phone, Call, Communication, Ringing, Incoming, Alert"
             }
           ]
@@ -149,8 +149,8 @@
               "description": "Telephone, Phone, Call, Communication, Off, Mute, Disabled"
             },
             {
-              "name": "Telephone_slashed",
-              "svgPath": "Communication/Telephone_slashed.svg",
+              "name": "Telephone_slashed-filled",
+              "svgPath": "Communication/Telephone_slashed-filled.svg",
               "description": "Telephone, Phone, Call, Communication, Off, Mute, Disabled"
             }
           ]
