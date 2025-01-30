@@ -9,7 +9,7 @@
           "hasVariants": true,
           "svgPath": "Communication/Speech-bubble_circular.svg",
           "id": "350:34321",
-          "lastExported": "2025-01-30T23:35:30.374Z"
+          "lastExported": "2025-01-30T23:36:31.782Z"
         },
         {
           "name": "Speech-bubble_rectangular",
@@ -17,7 +17,7 @@
           "hasVariants": true,
           "svgPath": "Communication/Speech-bubble_rectangular.svg",
           "id": "350:34352",
-          "lastExported": "2025-01-30T23:35:30.376Z"
+          "lastExported": "2025-01-30T23:36:31.783Z"
         },
         {
           "name": "Telephone",
@@ -25,7 +25,7 @@
           "hasVariants": true,
           "svgPath": "Communication/Telephone.svg",
           "id": "350:34357",
-          "lastExported": "2025-01-30T23:35:30.378Z"
+          "lastExported": "2025-01-30T23:36:31.784Z"
         },
         {
           "name": "Telephone_cross",
@@ -33,7 +33,7 @@
           "hasVariants": true,
           "svgPath": "Communication/Telephone_cross.svg",
           "id": "350:34360",
-          "lastExported": "2025-01-30T23:35:30.379Z"
+          "lastExported": "2025-01-30T23:36:31.785Z"
         },
         {
           "name": "Telephone_in",
@@ -41,7 +41,7 @@
           "hasVariants": true,
           "svgPath": "Communication/Telephone_in.svg",
           "id": "350:34363",
-          "lastExported": "2025-01-30T23:35:30.381Z"
+          "lastExported": "2025-01-30T23:36:31.786Z"
         },
         {
           "name": "Telephone_out",
@@ -49,7 +49,7 @@
           "hasVariants": true,
           "svgPath": "Communication/Telephone_out.svg",
           "id": "350:34366",
-          "lastExported": "2025-01-30T23:35:30.383Z"
+          "lastExported": "2025-01-30T23:36:31.788Z"
         },
         {
           "name": "Telephone_ringing",
@@ -57,7 +57,7 @@
           "hasVariants": true,
           "svgPath": "Communication/Telephone_ringing.svg",
           "id": "350:34369",
-          "lastExported": "2025-01-30T23:35:30.384Z"
+          "lastExported": "2025-01-30T23:36:31.789Z"
         },
         {
           "name": "Telephone_slashed",
@@ -65,7 +65,7 @@
           "hasVariants": true,
           "svgPath": "Communication/Telephone_slashed.svg",
           "id": "350:34372",
-          "lastExported": "2025-01-30T23:35:30.386Z"
+          "lastExported": "2025-01-30T23:36:31.790Z"
         }
       ]
     },
@@ -78,7 +78,7 @@
           "hasVariants": false,
           "svgPath": "Emotions/Emotion-1.svg",
           "id": "123:546",
-          "lastExported": "2025-01-30T23:35:30.390Z"
+          "lastExported": "2025-01-30T23:36:31.794Z"
         },
         {
           "name": "Emotion-2",
@@ -86,7 +86,7 @@
           "hasVariants": false,
           "svgPath": "Emotions/Emotion-2.svg",
           "id": "123:552",
-          "lastExported": "2025-01-30T23:35:30.392Z"
+          "lastExported": "2025-01-30T23:36:31.795Z"
         },
         {
           "name": "Emotion-3",
@@ -94,7 +94,7 @@
           "hasVariants": false,
           "svgPath": "Emotions/Emotion-3.svg",
           "id": "123:558",
-          "lastExported": "2025-01-30T23:35:30.393Z"
+          "lastExported": "2025-01-30T23:36:31.797Z"
         },
         {
           "name": "Emotion-4",
@@ -102,7 +102,7 @@
           "hasVariants": false,
           "svgPath": "Emotions/Emotion-4.svg",
           "id": "123:564",
-          "lastExported": "2025-01-30T23:35:30.396Z"
+          "lastExported": "2025-01-30T23:36:31.798Z"
         }
       ]
     }
