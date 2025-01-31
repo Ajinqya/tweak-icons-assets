@@ -7,24 +7,24 @@
           "name": "Bar-graph",
           "description": "Bar graph, Chart, Data, Statistics, Visualisation, Bars, Analysis, Comparison",
           "hasVariants": false,
-          "svgPath": "Charts and Graphs/Bar-graph.svg",
+          "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Charts and Graphs/Bar-graph.svg",
           "id": "28:197"
         },
         {
           "name": "Bar-graph_alt",
           "description": "",
           "hasVariants": true,
-          "svgPath": "Charts and Graphs/Bar-graph_alt.svg",
+          "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Charts and Graphs/Bar-graph_alt.svg",
           "id": "354:34422",
           "variants": [
             {
               "name": "Bar-graph_alt",
-              "svgPath": "Charts and Graphs/Bar-graph_alt.svg",
+              "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Charts and Graphs/Bar-graph_alt.svg",
               "description": "Bar graph, Chart, Data, Statistics, Visualisation, Bars, Analysis, Comparison"
             },
             {
               "name": "Bar-graph_alt-filled",
-              "svgPath": "Charts and Graphs/Bar-graph_alt-filled.svg",
+              "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Charts and Graphs/Bar-graph_alt-filled.svg",
               "description": "Bar graph, Chart, Data, Statistics, Visualisation, Bars, Analysis, Comparison"
             }
           ]
@@ -33,21 +33,21 @@
           "name": "Downward-trend",
           "description": "Downward trend, Decline, Decrease, Fall, Graph, Chart, Negative, Drop",
           "hasVariants": false,
-          "svgPath": "Charts and Graphs/Downward-trend.svg",
+          "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Charts and Graphs/Downward-trend.svg",
           "id": "147:4229"
         },
         {
           "name": "Pie-chart",
           "description": "Pie chart, Chart, Data, Statistics, Visualization, Slices, Segments, Analysis",
           "hasVariants": false,
-          "svgPath": "Charts and Graphs/Pie-chart.svg",
+          "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Charts and Graphs/Pie-chart.svg",
           "id": "133:2438"
         },
         {
           "name": "Upward-trend",
           "description": "Upward trend, Growth, Increase, Rise, Graph, Chart, Positive, Climb",
           "hasVariants": false,
-          "svgPath": "Charts and Graphs/Upward-trend.svg",
+          "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Charts and Graphs/Upward-trend.svg",
           "id": "147:4228"
         }
       ]
