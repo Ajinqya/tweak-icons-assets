@@ -1,0 +1,63 @@
+{
+  "categories": [
+    {
+      "name": "Charts and Graphs",
+      "icons": [
+        {
+          "id": "28:197",
+          "name": "Bar-graph",
+          "description": "Bar graph, Chart, Data, Statistics, Visualisation, Bars, Analysis, Comparison",
+          "updatedAt": "2025-01-31T00:29:51.264Z",
+          "svgPath": "Charts and Graphs/Bar-graph.svg",
+          "hasVariants": false
+        },
+        {
+          "id": "354:34422",
+          "name": "Bar-graph_alt",
+          "description": "",
+          "updatedAt": "2025-01-31T00:29:51.300Z",
+          "svgPath": "Charts and Graphs/Bar-graph_alt.svg",
+          "hasVariants": true,
+          "variants": [
+            {
+              "id": "354:34421",
+              "name": "Filled=No",
+              "svgPath": "Charts and Graphs/Filled=No.svg",
+              "updatedAt": "2025-01-31T00:29:51.304Z"
+            },
+            {
+              "id": "354:34423",
+              "name": "Filled=Yes",
+              "svgPath": "Charts and Graphs/Filled=Yes.svg",
+              "updatedAt": "2025-01-31T00:29:51.305Z"
+            }
+          ]
+        },
+        {
+          "id": "147:4229",
+          "name": "Downward-trend",
+          "description": "Downward trend, Decline, Decrease, Fall, Graph, Chart, Negative, Drop",
+          "updatedAt": "2025-01-31T00:29:51.307Z",
+          "svgPath": "Charts and Graphs/Downward-trend.svg",
+          "hasVariants": false
+        },
+        {
+          "id": "133:2438",
+          "name": "Pie-chart",
+          "description": "Pie chart, Chart, Data, Statistics, Visualization, Slices, Segments, Analysis",
+          "updatedAt": "2025-01-31T00:29:51.309Z",
+          "svgPath": "Charts and Graphs/Pie-chart.svg",
+          "hasVariants": false
+        },
+        {
+          "id": "147:4228",
+          "name": "Upward-trend",
+          "description": "Upward trend, Growth, Increase, Rise, Graph, Chart, Positive, Climb",
+          "updatedAt": "2025-01-31T00:29:51.312Z",
+          "svgPath": "Charts and Graphs/Upward-trend.svg",
+          "hasVariants": false
+        }
+      ]
+    }
+  ]
+}
