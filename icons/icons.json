@@ -8,8 +8,7 @@
           "description": "Bar graph, Chart, Data, Statistics, Visualisation, Bars, Analysis, Comparison",
           "hasVariants": false,
           "svgPath": "Charts and Graphs/Bar-graph.svg",
-          "id": "28:197",
-          "lastExported": "2025-01-31T00:31:17.173Z"
+          "id": "28:197"
         },
         {
           "name": "Bar-graph_alt",
@@ -17,31 +16,39 @@
           "hasVariants": true,
           "svgPath": "Charts and Graphs/Bar-graph_alt.svg",
           "id": "354:34422",
-          "lastExported": "2025-01-31T00:31:17.174Z"
+          "variants": [
+            {
+              "name": "Bar-graph_alt",
+              "svgPath": "Charts and Graphs/Bar-graph_alt.svg",
+              "description": "Bar graph, Chart, Data, Statistics, Visualisation, Bars, Analysis, Comparison"
+            },
+            {
+              "name": "Bar-graph_alt-filled",
+              "svgPath": "Charts and Graphs/Bar-graph_alt-filled.svg",
+              "description": "Bar graph, Chart, Data, Statistics, Visualisation, Bars, Analysis, Comparison"
+            }
+          ]
         },
         {
           "name": "Downward-trend",
           "description": "Downward trend, Decline, Decrease, Fall, Graph, Chart, Negative, Drop",
           "hasVariants": false,
           "svgPath": "Charts and Graphs/Downward-trend.svg",
-          "id": "147:4229",
-          "lastExported": "2025-01-31T00:31:17.175Z"
+          "id": "147:4229"
         },
         {
           "name": "Pie-chart",
           "description": "Pie chart, Chart, Data, Statistics, Visualization, Slices, Segments, Analysis",
           "hasVariants": false,
           "svgPath": "Charts and Graphs/Pie-chart.svg",
-          "id": "133:2438",
-          "lastExported": "2025-01-31T00:31:17.176Z"
+          "id": "133:2438"
         },
         {
           "name": "Upward-trend",
           "description": "Upward trend, Growth, Increase, Rise, Graph, Chart, Positive, Climb",
           "hasVariants": false,
           "svgPath": "Charts and Graphs/Upward-trend.svg",
-          "id": "147:4228",
-          "lastExported": "2025-01-31T00:31:17.178Z"
+          "id": "147:4228"
         }
       ]
     }
