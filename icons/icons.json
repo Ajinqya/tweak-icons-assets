@@ -255,6 +255,13 @@
           "hasVariants": false,
           "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Infrastructure/Home_door.svg",
           "id": "167:8715"
+        },
+        {
+          "name": "Home_bottomdash",
+          "description": "House, Residence, Dwelling, Abode, Shelter, Habitat",
+          "hasVariants": false,
+          "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Infrastructure/Home_bottomdash.svg",
+          "id": "685:3918"
         }
       ]
     },
@@ -2340,6 +2347,20 @@
           "hasVariants": false,
           "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Technical Concepts/x-in-a-tag.svg",
           "id": "28:354"
+        },
+        {
+          "name": "Spinner",
+          "description": "Loading, Progress, Spinner",
+          "hasVariants": false,
+          "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Technical Concepts/Spinner.svg",
+          "id": "405:2533"
+        },
+        {
+          "name": "Sidebar",
+          "description": "",
+          "hasVariants": false,
+          "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Technical Concepts/Sidebar.svg",
+          "id": "684:3894"
         }
       ]
     },
@@ -2617,7 +2638,7 @@
       "icons": [
         {
           "name": "Adobe",
-          "description": "Software, Creative, Design, Photoshop",
+          "description": "Metadata Update Check, Software, Creative, Design, Photoshop",
           "hasVariants": false,
           "svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Brands/Adobe.svg",
           "id": "197:10832"
