@@ -2216,13 +2216,6 @@
 "id": "28:430"
 },
 {
-"name": "Loader",
-"description": "Loading, Progress, Spinner",
-"hasVariants": false,
-"svgUrl": "https://raw.githubusercontent.com/Ajinqya/tweak-icons-assets/main/icons/Technical Concepts/Loader.svg",
-"id": "405:2533"
-},
-{
 "name": "Link-broken",
 "description": "Broken, Disconnected, URL, Web",
 "hasVariants": false,
